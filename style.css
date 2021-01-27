@@ -111,3 +111,13 @@ form > input[type='submit'] {
   font-size: 16px;
   cursor: pointer;
 }
+
+@media (max-width: 560px) {
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+}
